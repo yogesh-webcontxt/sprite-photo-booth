@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <corners android:radius="8dp" /> <!-- Adjust the radius as needed -->
+    <solid android:color="@color/green" /> <!-- Set your desired background color -->
+</shape>
